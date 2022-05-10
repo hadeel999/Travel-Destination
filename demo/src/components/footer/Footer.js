@@ -10,7 +10,7 @@ function Footer(props){
             <a href='/'>Facebook</a>
             <p>Authors : Hadeel Saleh And Mohammad ALshraideh</p>
             <p>© copyright</p>
-
+            
         </div>
         </>
         

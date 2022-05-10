@@ -1,4 +1,4 @@
-import './Tours.css'
+import './Tours.css';
 function Tours(props){
     return (
         <div>
@@ -7,7 +7,7 @@ function Tours(props){
                     return (
                         <div className="divStyle">
                             <h2 className="title">{element.name}</h2>
-                            <img className="image" src={element.image}></img>
+                            <img className="image" src={element.image} alt ="seen" ></img>
                         </div>
                     )
                 })
