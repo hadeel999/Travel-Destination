@@ -5,10 +5,11 @@ function Footer(props){
     return(
         <>
         <div className="footerDiv">
-            <a href='https://github.com/hadeel999'>GitHub</a>
+            <a href='/'>GitHub</a>
             <br></br>
-            <a href='https://web.facebook.com/hadeel.ahmadsaleh'>Facebook</a>
-            <p>Author : Hadeel Saleh © copyright</p>
+            <a href='/'>Facebook</a>
+            <p>Authors : Hadeel Saleh And Mohammad ALshraideh</p>
+            <p>© copyright</p>
 
         </div>
         </>
