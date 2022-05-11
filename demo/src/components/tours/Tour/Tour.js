@@ -1,4 +1,4 @@
-import './tour.css'
+import './Tour.css'
 export default function tour(props){
     return(
         <div className="divStyle">
