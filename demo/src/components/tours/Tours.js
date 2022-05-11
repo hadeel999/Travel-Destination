@@ -12,9 +12,6 @@ function Tours(props){
                         <Link to={`/city/${element.id}`}>
 
                             <Tour dataWithKey={element}/>
-
-                            <Tour key={element.id} dataWithKey={element}/>
-
                         </Link>
                     )
                 })
