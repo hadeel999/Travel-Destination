@@ -1,8 +1,8 @@
 import './App.css';
 import Home from './components/home/Home';
-const travelData=require("./data/db.json");
 import { Routes, Route, Link } from "react-router-dom";
 import TourDetails from './components/TourDetails/TourDetails';
+const travelData=require("./data/db.json");
 
 function App() {
   return (
